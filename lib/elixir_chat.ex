@@ -1,0 +1,2 @@
+defmodule ElixirChat do
+end
